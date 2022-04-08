@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nl35.seedr.cc/ff_get/1140221661/Curious.George.Cape.Ahoy.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv?st=V-DAne8Wjv1TuIXQwiLyxQ&e=1649139196"
+          src="https://nw1.seedr.cc/ff_get/1142913621/Tom.and.Jerry.2021.1080p.WEBRip.x264-RARBG.mp4?st=6O1RIDnrrjINif0krlNJgw&e=1649514969"
           type="video/mp4"
         />
       </video>
